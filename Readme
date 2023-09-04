@@ -1,2 +1,5 @@
-The dataset is constructed for electromagnetic imaging. Each 3D model contains five parts: skull, gray matter, white matter and skin, skin and other tissues,  other tissues and background, and strokes.
-Each .mat file can be opened with MATLAB or python.
+-) The dataset is manually segmented from 3D MRI images (http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html).
+-) The dataset is constructed for electromagnetic brain imaging. Each 3D model has a resolution of 3mm * 3mm * 3mm. 
+It contains five parts: skull, gray matter, white matter and skin, skin and other tissues,  other tissues and background, and strokes.
+-) Each .mat file can be opened with MATLAB or Python.
+-) When using the dataset, please cite..
