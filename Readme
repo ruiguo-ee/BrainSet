@@ -1,8 +1,10 @@
--) The dataset is manually segmented from 3D MRI images (http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html).
--) The dataset is constructed for electromagnetic brain imaging.
+-) The dataset is manually segmented from 3D MRI images. 
+   The original paper of MRIs: Liew S L, Anglin J M, Banks N W, et al. A large, open source dataset of stroke anatomical brain images and manual lesion segmentations[J]. Scientific data, 2018, 5(1): 1-11.
+   Website: http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html.
+-) This dataset is constructed for electromagnetic brain imaging.
    Six parts: skull, gray matter, white matter and skin, skin and other tissues, CSF, other tissues and background, and strokes.
 -) dataset300: each 3D model has a resolution of 1mm * 1mm * 1mm. 
    dataset100: each 3D model has a resolution of 3mm * 3mm * 3mm (Down-sampled from dataset300).
 -) Each .mat file can be opened with MATLAB or Python.
--) When using the dataset, please cite..
+-) When the dataset is used, please kindly cite..
 -) Academic or educational use only.
