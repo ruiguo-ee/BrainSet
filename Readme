@@ -6,5 +6,6 @@
 -) dataset300: each 3D model has a resolution of 1mm * 1mm * 1mm. 
    dataset100: each 3D model has a resolution of 3mm * 3mm * 3mm (Down-sampled from dataset300).
 -) Each .mat file can be opened with MATLAB or Python.
--) When the dataset is used, please kindly cite..
+-) When the dataset is used, please kindly cite 
+      R. Guo et al., "Three Dimensional Microwave Data Inversion in Feature Space for Stroke Imaging," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2023.3336788.
 -) Academic or educational use only.
